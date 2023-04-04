@@ -1,1 +1,2 @@
-"Morgan Baker" 
+Morgan Baker
+bakermor@oregonstate.edu
